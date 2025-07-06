@@ -1,17 +1,18 @@
 import InfoCard from "@/components/InfoCard";
 import { FaBullseye, FaLightbulb, FaBook, FaTools } from "react-icons/fa";
+import Link from "next/link";
 
 export default function AboutPage() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-[#4facfe] via-[#00f2fe] to-[#43e97b] px-4 py-10 overflow-hidden">
       
       {/* 🎮 Updated Back to Home Button - Boyish theme */}
-      <a
+      <Link
         href="/"
         className="inline-flex items-center gap-2 bg-white/90 backdrop-blur-md text-gray-800 font-bold py-3 px-6 rounded-full shadow-lg border border-white/40 transform transition-all duration-300 hover:scale-110 hover:shadow-2xl hover:bg-white hover:rotate-1 hover:translate-y-[-2px] group"
       >
         🏠 <span className="group-hover:animate-pulse">Back to Home</span>
-      </a>
+      </Link>
 
       {/* 🎮 Updated Header Section - Fun animations */}
       <div className="max-w-4xl mx-auto text-center mb-12 mt-8">
@@ -25,7 +26,7 @@ export default function AboutPage() {
         {/* 🎮 Enhanced Bio with fun glassmorphism container */}
         <div className="bg-white/80 backdrop-blur-md rounded-3xl p-8 shadow-2xl border border-white/40 hover:shadow-3xl transition-all duration-500 hover:scale-[1.02] hover:rotate-1 hover:bg-white/90 group">
           <p className="text-gray-800 text-justify leading-relaxed tracking-wide text-[17px] max-w-3xl mx-auto group-hover:text-gray-900 transition-colors duration-300">
-            I'm <span className="font-semibold text-blue-600 hover:text-cyan-600 transition-colors duration-300 cursor-default">Muhammad Subhan Zia</span>, a curious explorer on a mission to mix data, design, and dua into powerful creations 🌟. Currently diving deep into <span className="text-cyan-600 font-medium hover:text-blue-600 transition-colors duration-300 cursor-default">Data Science at FAST NUCES Lahore</span>, coding cool stuff by day, teaching physics by evening. I dream big — think <span className="text-green-600 font-medium hover:text-emerald-600 transition-colors duration-300 cursor-default">software house</span>, <span className="text-blue-500 font-medium hover:text-cyan-500 transition-colors duration-300 cursor-default">restaurant</span>, <span className="text-purple-500 font-medium hover:text-indigo-500 transition-colors duration-300 cursor-default">and of course healthy life</span> — and I'm building brick by brick, byte by byte, <span className="italic text-gray-600 hover:text-gray-800 transition-colors duration-300 cursor-default">in sha Allah</span> 🏗️✨.
+            I&apos;m <span className="font-semibold text-blue-600 hover:text-cyan-600 transition-colors duration-300 cursor-default">Muhammad Subhan Zia</span>, a curious explorer on a mission to mix data, design, and dua into powerful creations 🌟. Currently diving deep into <span className="text-cyan-600 font-medium hover:text-blue-600 transition-colors duration-300 cursor-default">Data Science at FAST NUCES Lahore</span>, coding cool stuff by day, teaching physics by evening. I dream big — think <span className="text-green-600 font-medium hover:text-emerald-600 transition-colors duration-300 cursor-default">software house</span>, <span className="text-blue-500 font-medium hover:text-cyan-500 transition-colors duration-300 cursor-default">restaurant</span>, <span className="text-purple-500 font-medium hover:text-indigo-500 transition-colors duration-300 cursor-default">and of course healthy life</span> — and I&apos;m building brick by brick, byte by byte, <span className="italic text-gray-600 hover:text-gray-800 transition-colors duration-300 cursor-default">in sha Allah</span> 🏗️✨.
           </p>
         </div>
       </div>
@@ -37,7 +38,7 @@ export default function AboutPage() {
         </InfoCard>
 
         <InfoCard title="Currently I am" icon={<FaLightbulb />} textColor="text-cyan-500">
-          Learning full-stack skills via my internship with Nexium. Exploring Next.js, Tailwind, ShadCN, n8n and Supabase, and working on 5 startup style ideas with my group, we've made 1 MVP you can check out on my linkedIn profile.
+          Learning full-stack skills via my internship with Nexium. Exploring Next.js, Tailwind, ShadCN, n8n and Supabase, and working on 5 startup style ideas with my group, we&apos;ve made 1 MVP you can check out on my LinkedIn profile.
         </InfoCard>
 
         <InfoCard title="Learning Interest" icon={<FaBook />} textColor="text-green-500">
