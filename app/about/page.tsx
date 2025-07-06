@@ -17,16 +17,16 @@ export default function AboutPage() {
       {/* 🎮 Updated Header Section - Fun animations */}
       <div className="max-w-4xl mx-auto text-center mb-12 mt-8">
         <h1 className="text-5xl font-bold mb-4 hover:animate-bounce cursor-default">
-          🎮 Hey Buddies!{" "}
+          🤖 Hey Buddies!{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 via-cyan-600 to-green-600 hover:from-green-600 hover:via-blue-600 hover:to-purple-600 transition-all duration-500">
-            Subhan Zia
+           Subhan
           </span>
         </h1>
         
         {/* 🎮 Enhanced Bio with fun glassmorphism container */}
         <div className="bg-white/80 backdrop-blur-md rounded-3xl p-8 shadow-2xl border border-white/40 hover:shadow-3xl transition-all duration-500 hover:scale-[1.02] hover:rotate-1 hover:bg-white/90 group">
           <p className="text-gray-800 text-justify leading-relaxed tracking-wide text-[17px] max-w-3xl mx-auto group-hover:text-gray-900 transition-colors duration-300">
-            I&apos;m <span className="font-semibold text-blue-600 hover:text-cyan-600 transition-colors duration-300 cursor-default">Muhammad Subhan Zia</span>, a curious explorer on a mission to mix data, design, and dua into powerful creations 🌟. Currently diving deep into <span className="text-cyan-600 font-medium hover:text-blue-600 transition-colors duration-300 cursor-default">Data Science at FAST NUCES Lahore</span>, coding cool stuff by day, teaching physics by evening. I dream big — think <span className="text-green-600 font-medium hover:text-emerald-600 transition-colors duration-300 cursor-default">software house</span>, <span className="text-blue-500 font-medium hover:text-cyan-500 transition-colors duration-300 cursor-default">restaurant</span>, <span className="text-purple-500 font-medium hover:text-indigo-500 transition-colors duration-300 cursor-default">and of course healthy life</span> — and I&apos;m building brick by brick, byte by byte, <span className="italic text-gray-600 hover:text-gray-800 transition-colors duration-300 cursor-default">in sha Allah</span> 🏗️✨.
+            I&apos;m <span className="font-semibold text-blue-600 hover:text-cyan-600 transition-colors duration-300 cursor-default">Muhammad Subhan Zia</span>, a curious explorer on a mission to mix data, design, and dua into powerful creations 🌟. Currently diving deep into <span className="text-cyan-600 font-medium hover:text-blue-600 transition-colors duration-300 cursor-default">Data Science at FAST NUCES Lahore</span>, coding cool stuff by day, teaching physics by evening. I dream big think <span className="text-green-600 font-medium hover:text-emerald-600 transition-colors duration-300 cursor-default">software house</span>, <span className="text-blue-500 font-medium hover:text-cyan-500 transition-colors duration-300 cursor-default">restaurant</span>, <span className="text-purple-500 font-medium hover:text-indigo-500 transition-colors duration-300 cursor-default">and of course healthy life</span> and I&apos;m building brick by brick, byte by byte, <span className="italic text-gray-600 hover:text-gray-800 transition-colors duration-300 cursor-default">in sha Allah</span> 🏗️✨.
           </p>
         </div>
       </div>
@@ -80,10 +80,10 @@ export default function AboutPage() {
       <footer className="mt-16 text-center">
         <div className="bg-white/70 backdrop-blur-md rounded-full px-8 py-4 shadow-lg border border-white/40 inline-block hover:shadow-2xl hover:scale-105 hover:rotate-1 transition-all duration-300 group">
           <p className="text-gray-700 text-sm">
-            Built with <span className="text-red-500 hover:animate-pulse cursor-default">❤️</span> and lots of{" "}
+            Built with <span className="text-red-500 hover:animate-pulse cursor-default">🪄</span> and lots of{" "}
             <span className="text-amber-600 hover:animate-bounce cursor-default">☕</span> by{" "}
             <span className="font-semibold bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent group-hover:from-cyan-600 group-hover:to-green-600 transition-all duration-500">
-              Subhan Zia
+              Muhammad Subhan
             </span>
           </p>
         </div>

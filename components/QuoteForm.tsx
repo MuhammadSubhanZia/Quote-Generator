@@ -124,7 +124,7 @@ export default function QuoteForm() {
       {/* 🎮 Updated footer with better theme */}
       <footer className="mt-10 text-center text-sm text-gray-700 bg-white/40 backdrop-blur-sm rounded-full px-6 py-2 border border-white/50 hover:bg-white/50 hover:scale-105 transition-all duration-300 group">
         <p>
-          Built with <span className="text-red-500 hover:animate-pulse cursor-default">❤️</span> using Next.js, Tailwind CSS & ShadCN UI by{" "}
+          Built with <span className="text-red-500 hover:animate-pulse cursor-default">☕</span> using Next.js, Tailwind CSS & ShadCN UI by{" "}
           <span className="font-semibold bg-gradient-to-r from-purple-700 to-pink-700 bg-clip-text text-transparent group-hover:from-pink-800 group-hover:to-purple-800 transition-all duration-300">
             Subhan Zia
           </span>
