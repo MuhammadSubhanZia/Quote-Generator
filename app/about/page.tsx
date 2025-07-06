@@ -26,7 +26,7 @@ export default function AboutPage() {
         {/* 🎮 Enhanced Bio with fun glassmorphism container */}
         <div className="bg-white/80 backdrop-blur-md rounded-3xl p-8 shadow-2xl border border-white/40 hover:shadow-3xl transition-all duration-500 hover:scale-[1.02] hover:rotate-1 hover:bg-white/90 group">
           <p className="text-gray-800 text-justify leading-relaxed tracking-wide text-[17px] max-w-3xl mx-auto group-hover:text-gray-900 transition-colors duration-300">
-            I&apos;m <span className="font-semibold text-blue-600 hover:text-cyan-600 transition-colors duration-300 cursor-default">Muhammad Subhan Zia</span>, a curious explorer on a mission to mix data, design, and dua into powerful creations 🌟. Currently diving deep into <span className="text-cyan-600 font-medium hover:text-blue-600 transition-colors duration-300 cursor-default">Data Science at FAST NUCES Lahore</span>, coding cool stuff by day, teaching physics by evening. I dream big think <span className="text-green-600 font-medium hover:text-emerald-600 transition-colors duration-300 cursor-default">software house</span>, <span className="text-blue-500 font-medium hover:text-cyan-500 transition-colors duration-300 cursor-default">restaurant</span>, <span className="text-purple-500 font-medium hover:text-indigo-500 transition-colors duration-300 cursor-default">and of course healthy life</span> and I&apos;m building brick by brick, byte by byte, <span className="italic text-gray-600 hover:text-gray-800 transition-colors duration-300 cursor-default">in sha Allah</span> 🏗️✨.
+            I&apos;m <span className="font-semibold text-blue-600 hover:text-cyan-600 transition-colors duration-300 cursor-default">Muhammad Subhan Zia</span>, a curious explorer on a mission to mix data, design, and dua into powerful creations 🌟. Currently diving deep into <span className="text-cyan-600 font-medium hover:text-blue-600 transition-colors duration-300 cursor-default">Data Science at FAST NUCES Lahore</span>, coding cool stuff by day, teaching physics by evening. I dream to build my own<span className="text-green-600 font-medium hover:text-emerald-600 transition-colors duration-300 cursor-default"> software house</span>, <span className="text-blue-500 font-medium hover:text-cyan-500 transition-colors duration-300 cursor-default">restaurant</span>, <span className="text-purple-500 font-medium hover:text-indigo-500 transition-colors duration-300 cursor-default">and of course healthy life</span> and I&apos;m building brick by brick, byte by byte, <span className="italic text-gray-600 hover:text-gray-800 transition-colors duration-300 cursor-default">in sha Allah</span> 🏗️✨.
           </p>
         </div>
       </div>
@@ -38,7 +38,7 @@ export default function AboutPage() {
         </InfoCard>
 
         <InfoCard title="Currently I am" icon={<FaLightbulb />} textColor="text-cyan-500">
-          Learning full-stack skills via my internship with Nexium. Exploring Next.js, Tailwind, ShadCN, n8n and Supabase, and working on 5 startup style ideas with my group, we&apos;ve made 1 MVP you can check out on my LinkedIn profile.
+          Learning full-stack skills via my internship with Nexium. Exploring Next.js, Tailwind, ShadCN, n8n and Supabase, and working on several startup style MVPs in diverese tech stacks and tools.
         </InfoCard>
 
         <InfoCard title="Learning Interest" icon={<FaBook />} textColor="text-green-500">

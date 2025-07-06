@@ -1,106 +1,132 @@
-{ 
-    "love": [
-        "Love is composed of a single soul inhabiting two bodies.",
-        "Where there is love there is life.",
-        "Love all, trust a few, do wrong to none."
-    ],
-    "friendship": [
-        "Friendship is born at that moment when one person says to another, 'What! You too? I thought I was the only one.'",
-        "A friend is someone who knows all about you and still loves you.",
-        "Friendship is the only cement that will ever hold the world together."
-    ],
-    
-    "happiness": [
-        "Happiness is not something ready made. It comes from your own actions.",
-        "The purpose of our lives is to be happy.",
-        "Happiness is when what you think, what you say, and what you do are in harmony."
-    ],
-    "positivity": [
-        "Keep your face always toward the sunshine—and shadows will fall behind you.",
-        "The only limit to our realization of tomorrow will be our doubts of today.",
-        "Positive anything is better than negative nothing."
-    ],
-    "determination": [
-        "The future belongs to those who believe in the beauty of their dreams.",
-        "It does not matter how slowly you go as long as you do not stop.",
-        "Determination is the wake-up call to the human will."
-    ],
-    
-    "motivation": [
-        "The only way to do great work is to love what you do.",
-        "Success is not the key to happiness. Happiness is the key to success.",
-        "Your limitation—it's only your imagination."
-    ],
-
-    "inspiration": [
-        "The best way to predict the future is to create it.",
-        "You are never too old to set another goal or to dream a new dream.",
-        "Believe you can and you're halfway there."
-    ],
-
-    "wisdom": [
-        "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.",
-        "The only true wisdom is in knowing you know nothing.",
-        "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
-    ],
-    "courage": [
-        "Courage is not the absence of fear, but the triumph over it.",
-        "It takes courage to grow up and become who you really are.",
-        "Courage is grace under pressure."
-    ],
-    "gratitude": [
-        "Gratitude is not only the greatest of virtues, but the parent of all others.",
-        "Gratitude turns what we have into enough.",
-        "The more grateful I am, the more beauty I see."
-    ],
-    "kindness": [
-        "Kindness is the language which the deaf can hear and the blind can see.",
-        "No act of kindness, no matter how small, is ever wasted.",
-        "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love."
-    ],
-
-    "change": [
-        "Change is the only constant in life.",
-        "To improve is to change; to be perfect is to change often.",
-        "Change your thoughts and you change your world."
-    ],
-
-
-     "life": [
-    "Life is what happens when you're busy making other plans.",
-    "Life is short. Smile while you still have teeth.",
-    "The purpose of life is a life of purpose."
+{
+    "tawakkul": [
+    "And whoever relies upon Allah – then He is sufficient for him. (Quran 65:3)",
+    "Put your trust in Allah; certainly, Allah loves those who put their trust in Him. (Quran 3:159)",
+    "If you were to rely upon Allah with reliance He is due, He would provide for you just as He provides for the birds. (Tirmidhi 2344)"
   ],
-    "health": [
-        "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
-        "Take care of your body. It's the only place you have to live.",
-        "A healthy outside starts from the inside."
-    ],
-    "family": [
-            "Family is not an important thing, it's everything.",
-            "The love of a family is life's greatest blessing.",
-            "Family means no one gets left behind or forgotten."
-    ],
+  "repentance": [
+    "Indeed, Allah loves those who are constantly repentant and loves those who purify themselves. (Quran 2:222)",
+    "O My servants who have transgressed against themselves, do not despair of the mercy of Allah. (Quran 39:53)",
+    "The one who repents from sin is like one who did not sin. (Ibn Majah 4250)"
+  ],
+  "hope": [
+    "And never give up hope of Allah's mercy. Certainly no one despairs of Allah's mercy except the disbelieving people. (Quran 12:87)",
+    "I am as My servant thinks I am, and I am with him when he remembers Me. (Bukhari 7405, Muslim 2675)",
+    "Say: O My slaves who have transgressed against themselves, do not despair of the mercy of Allah. (Quran 39:53)"
+  ],
+  "forgiveness": [
+    "Indeed, Allah is ever Pardoning and Forgiving. (Quran 4:99)",
+    "Whoever pardons and makes reconciliation - his reward is from Allah. (Quran 42:40)",
+    "Be merciful to others and you will receive mercy. (Tirmidhi 1924)"
+  ],
+  "humility": [
+    "And do not walk upon the earth arrogantly. Indeed, you will never tear the earth [apart], and you will never reach the mountains in height. (Quran 17:37)",
+    "Whoever humbles himself for the sake of Allah, Allah will raise him in status. (Muslim 2588)",
+    "Indeed, the most honorable of you in the sight of Allah is the most righteous of you. (Quran 49:13)"
+  ],
+  "generosity": [
+    "The example of those who spend their wealth in the way of Allah is like a seed [of grain]... (Quran 2:261)",
+    "Charity does not decrease wealth. (Muslim 2588)",
+    "The believer’s shade on the Day of Resurrection will be his charity. (Tirmidhi 604)"
+  ],
+  "justice": [
+    "Indeed, Allah commands justice, good conduct, and giving to relatives. (Quran 16:90)",
+    "Be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves. (Quran 4:135)",
+    "Verily, the most beloved of people to Allah on the Day of Judgment and the closest to Him will be the just leader. (Tirmidhi 1329)"
+  ],
+  "love": [
+    "And of His signs is that He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection and mercy. (Quran 30:21)",
+    "The most complete of the believers in faith are those with the best character, and the best of you are those who are best to their wives. (Tirmidhi 1162)",
+    "None of you truly believes until he loves for his brother what he loves for himself. (Bukhari 13, Muslim 45)"
+  ],
+  "friendship": [
+    "Close friends, that Day, will be enemies to each other, except for the righteous. (Quran 43:67)",
+    "A person is upon the religion of his close friend, so beware whom you befriend. (Tirmidhi 2378)",
+    "The example of a good companion and a bad one is like a seller of musk and a blacksmith. (Bukhari 2101)"
+  ],
+  "happiness": [
+    "Unquestionably, by the remembrance of Allah hearts are assured. (Quran 13:28)",
+    "Whoever does righteousness, whether male or female, while he is a believer — We will surely cause him to live a good life. (Quran 16:97)",
+    "True enrichment does not come through possessing a lot of wealth, but true enrichment is the contentment of the soul. (Bukhari 6446, Muslim 1051)"
+  ],
+  "positivity": [
+    "Do not lose hope, nor be sad. You will surely be victorious if you are true believers. (Quran 3:139)",
+    "Amazing is the affair of the believer, for there is good in every matter of his. (Muslim 2999)",
+    "So verily, with the hardship, there is relief. (Quran 94:6)"
+  ],
+  "determination": [
+    "So when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him]. (Quran 3:159)",
+    "The strong believer is more beloved to Allah than the weak believer, while there is good in both. (Muslim 2664)",
+    "And those who strive for Us – We will surely guide them to Our ways. (Quran 29:69)"
+  ],
+  "motivation": [
+    "So whoever does an atom's weight of good will see it. (Quran 99:7)",
+    "Be steadfast and patient, for Allah is with the patient. (Quran 8:46)",
+    "The most beloved deeds to Allah are those that are most consistent, even if small. (Bukhari 6464)"
+  ],
+  "inspiration": [
+    "Indeed, this Qur’an guides to that which is most upright. (Quran 17:9)",
+    "Whoever walks a path in search of knowledge, Allah will ease a path for him to Paradise. (Muslim 2699)",
+    "And say: My Lord, increase me in knowledge. (Quran 20:114)"
+  ],
+  "wisdom": [
+    "He gives wisdom to whom He wills, and whoever has been given wisdom has certainly been given much good. (Quran 2:269)",
+    "When the Messenger of Allah spoke, he spoke clearly and concisely. (Bukhari 3568)",
+    "O you who have believed, fear Allah and speak words of appropriate justice. (Quran 33:70)"
+  ],
+  "courage": [
+    "But they plan, and Allah plans. And Allah is the best of planners. (Quran 8:30)",
+    "Do not fear them; fear Me, if you are believers. (Quran 3:175)",
+    "You must be truthful, for truthfulness leads to righteousness. (Muslim 2607)"
+  ],
+  "gratitude": [
+    "If you are grateful, I will surely increase you [in favor]. (Quran 14:7)",
+    "Whoever is not grateful to people is not grateful to Allah. (Tirmidhi 1954)",
+    "Eat of the good things which We have provided for you, and be grateful to Allah. (Quran 2:172)"
+  ],
+  "kindness": [
+    "And speak to people good [words]. (Quran 2:83)",
+    "Whoever is not merciful to others will not be treated mercifully. (Bukhari 6013)",
+    "Allah is kind and loves kindness in all matters. (Bukhari 6927, Muslim 2165)"
+  ],
+  "change": [
+    "Indeed, Allah will not change the condition of a people until they change what is in themselves. (Quran 13:11)",
+    "Every innovation is misguidance, and every misguidance is in the Hellfire. (Muslim 867)",
+    "Renew your faith. It was said: O Messenger of Allah, how do we renew our faith? He said: Frequently say: La ilaha illallah. (Musnad Ahmad)"
+  ],
+  "life": [
+    "Every soul will taste death. And you will only be given your [full] compensation on the Day of Resurrection. (Quran 3:185)",
+    "This worldly life is nothing but amusement and diversion; the Hereafter is better for those who fear Allah. (Quran 6:32)",
+    "Live in this world as if you were a stranger or a traveler. (Bukhari 6416)"
+  ],
+  "health": [
+    "Ask Allah for forgiveness and health, for no one is given anything better after certainty than health. (Tirmidhi 3557)",
+    "There is no disease that Allah has created, except that He also has created its treatment. (Bukhari 5678)",
+    "Do not throw yourselves with your own hands into destruction. (Quran 2:195)"
+  ],
+  "family": [
+    "And We have enjoined upon man [care] for his parents. (Quran 29:8)",
+    "The best of you is the best to his family, and I am the best among you to my family. (Tirmidhi 3895)",
+    "Your Lord has decreed that you worship none but Him, and that you be kind to parents. (Quran 17:23)"
+  ],
   "education": [
-    "Education is the most powerful weapon which you can use to change the world.",
-    "An investment in knowledge pays the best interest.",
-    "Education is not preparation for life; education is life itself."
-    ],
-    
-     "success": [
-    "Success usually comes to those who are too busy to be looking for it.",
-    "Success is not in what you have, but who you are.",
-    "Success is walking from failure to failure with no loss of enthusiasm."
+    "Read in the name of your Lord who created. (Quran 96:1)",
+    "Seeking knowledge is an obligation upon every Muslim. (Ibn Majah 224)",
+    "Allah will raise those who have believed among you and those who were given knowledge, by degrees. (Quran 58:11)"
+  ],
+  "success": [
+    "Indeed, the most noble of you in the sight of Allah is the most righteous of you. (Quran 49:13)",
+    "Whoever obeys Allah and His Messenger has certainly attained a great attainment. (Quran 33:71)",
+    "Indeed, those who have believed and done righteous deeds — they will have the Gardens of Paradise. (Quran 18:107)"
   ],
   "patience": [
-    "Patience is not the ability to wait, but how you act while you're waiting.",
-    "Sabr is beautiful. (Quran 12:18)",
-    "Indeed, Allah is with those who are patient. (Quran 2:153)"
+    "Indeed, Allah is with those who are patient. (Quran 2:153)",
+    "So be patient. Indeed, the promise of Allah is truth. (Quran 30:60)",
+    "No fatigue, nor disease, nor sorrow afflicts a Muslim, but Allah expiates some of his sins because of it. (Bukhari 5641)"
   ],
   "faith": [
-    "Faith is taking the first step even when you don’t see the whole staircase.",
-    "He who has faith has hope, and he who has hope has everything."
-   
+    "Indeed, those who have said, 'Our Lord is Allah' and then remained steadfast – the angels will descend upon them... (Quran 41:30)",
+    "Faith consists of more than sixty branches, and modesty is a branch of faith. (Bukhari 9, Muslim 35)",
+    "None of you will enter Paradise until you believe, and none of you will truly believe until you love one another. (Muslim 54)"
   ]
-  
 }
