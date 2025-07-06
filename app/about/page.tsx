@@ -66,7 +66,7 @@ export default function AboutPage() {
             </li>
             <li className="flex items-start gap-2 hover:translate-x-1 transition-transform duration-300">
               <span className="text-purple-500 mt-1">•</span>
-              <span>ShadCN UI for Beautiful pre-styled UI components, JSON for quote data storage, Framer Motion + CSS Animations for smooth effects & transitions</span>
+              <span>JSON for quote data storage, Framer Motion + CSS Animations for smooth effects & transitions</span>
             </li>
             <li className="flex items-start gap-2 hover:translate-x-1 transition-transform duration-300">
               <span className="text-purple-500 mt-1">•</span>
