@@ -1,6 +1,6 @@
 # ✨ Quote Generator by Subhan Zia
 
-Welcome to **Quote Generator**, a creative and dynamic project built with care, passion, and a hunger to explore new tools and technologies. This isn't just a simple quote display app — it's an aesthetic experience powered by animation, color, and interactivity.
+Welcome to **Quote Generator**, a creative and dynamic project built with care, passion, and a hunger to explore new tools and technologies. This isn't just a simple quote display app it's an aesthetic experience powered by animation, color, and interactivity.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to **Quote Generator**, a creative and dynamic project built with care, 
 
 This project started with a simple idea: to present **meaningful quotes beautifully**.
 
-But for me, Subhan Zia, it was more than just quotes. It was about stepping into a new territory — using **Next.js**, **Tailwind CSS**, **ShadCN UI**, and many more modern web development tools that I hadn't used before.
+But for me, Subhan Zia, it was more than just quotes. It was about stepping into a new territory using **Next.js**, **Tailwind CSS**, **ShadCN UI**, and many more modern web development tools that I hadn't used before.
 
 Alhamdulillah, this journey became a practical playground where I explored:
 - ✨ Animations with floating emojis
